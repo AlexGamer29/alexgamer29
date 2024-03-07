@@ -7,7 +7,8 @@ With more than a year immersed in web development, specializing in both front-en
 <br/>
 <br/>
 
-  
+<img align="right" height="250" width="375" alt="" src="https://github.com/AlexGamer29/alexgamer29/blob/master/assets/right-banner.gif" />
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **visionary-backend** and **visionary-frontend**
