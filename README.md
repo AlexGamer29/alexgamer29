@@ -7,10 +7,11 @@ With more than a year immersed in web development, specializing in both front-en
 <br/>
 <br/>
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/AlexGamer29/alexgamer29/blob/master/assets/right-banner.gif" />
+<br/>
+
+<img  align="right" height="250" width="375" alt="" src="https://github.com/AlexGamer29/alexgamer29/blob/master/assets/right-banner.gif" />
 
 ### 🧐 More About Me:
-
 - 🔭 &nbsp; I’m currently working on **visionary-backend** and **visionary-frontend**
 - 🌱 &nbsp; I’m currently learning **Flutter** and **AWS Certified Developer - Associate**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AlexGamer29?tab=repositories)
@@ -34,7 +35,7 @@ With more than a year immersed in web development, specializing in both front-en
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/AlexGamer29/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/AlexGamer29/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/AlexGamer29/github-stats-transparent/output/generated/languages.svg)
