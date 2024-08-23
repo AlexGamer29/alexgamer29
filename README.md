@@ -41,3 +41,6 @@ With more than a year immersed in web development, specializing in both front-en
 ![Most Used Languages](https://raw.githubusercontent.com/AlexGamer29/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+
+### ️🎵 What songs I'm listening to?
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eo0g84td0wno27r9q2aozw33l&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eo0g84td0wno27r9q2aozw33l&redirect=true)
