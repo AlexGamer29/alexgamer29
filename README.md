@@ -17,7 +17,7 @@ With more than a year immersed in web development, specializing in both front-en
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AlexGamer29?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help at [**this link**](https://github.com/AlexGamer29/alexgamer29/issues/new)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alexgamer29/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ixhbQDyA_WHKUk5du95lXAKGRK_xSjNZ)
+- 📝 &nbsp; Checkout my [resume](https://alexnguyen.live/)
 
 <br>
 
